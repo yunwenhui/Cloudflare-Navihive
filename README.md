@@ -78,7 +78,7 @@
 **三步部署，立即使用：**
 
 1. **Fork 项目** → 点击右上角 Fork 按钮
-2. **一键部署** → [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/你的用户名/Cloudflare-Navihive)
+2. **一键部署** → [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/yunwenhui/Cloudflare-Navihive)
 3. **配置数据库** → 在 Cloudflare 控制台创建 D1 数据库并初始化
 
 > 详细步骤见下方[部署指南](#-部署指南)
